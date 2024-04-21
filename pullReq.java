@@ -1,9 +1,12 @@
 class pullReq{
 
 
-    public static Merging(string n){
-        int x,y,z;
-        System.out.println(n);
+
+
+    public static Merging(){
+        System.out.println("Conf");
+        //System.out.println(n);
+>>>>>>> feature
     }
 
     public static void main(String args[]){
