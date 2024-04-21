@@ -3,10 +3,10 @@ class pullReq{
 
 
 
-    public static Merging(){
+    public static Merging(int n){
         System.out.println("Conf");
         //System.out.println(n);
->>>>>>> feature
+
     }
 
     public static void main(String args[]){
