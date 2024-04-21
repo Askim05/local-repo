@@ -1,9 +1,9 @@
 class pullReq{
 
 
-    public static Merging(int n){
+    public static Merging(string n){
         int x,y,z;
-        //System.out.println(n);
+        System.out.println(n);
     }
 
     public static void main(String args[]){
