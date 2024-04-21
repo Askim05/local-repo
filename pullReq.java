@@ -1,12 +1,12 @@
 class pullReq{
 
 
-    public static merging(string n){
+    public static void merging(String n){
         System.out.println("Conf");
         System.out.println(n);
 
     }
-    public static branchChange(){
+    public static void branchChange(){
         System.out.println("Merging from branch");
     }
     public static void main(String args[]){
