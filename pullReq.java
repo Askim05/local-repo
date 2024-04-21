@@ -1,7 +1,10 @@
 class pullReq{
 
-    public static mergeing(){
-        System.out.println("HI");
+
+    public static Merging(string n){
+        //System.out.println("Conf");
+        //System.out.println(n);
+
     }
     public static void main(String args[]){
         Merging("3");
