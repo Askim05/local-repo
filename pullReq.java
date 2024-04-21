@@ -1,8 +1,8 @@
 class pullReq{
 
 
-    public static Merging(int n){
-        int x,y,z;
+    public static Merging(){
+        System.out.println("Conf");
         //System.out.println(n);
     }
 
