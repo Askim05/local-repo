@@ -1,7 +1,7 @@
 class pullReq{
 
 
-    public static Merging(int n){
+    public static Merging(){
         System.out.println("In feature "+n);
 
     }
