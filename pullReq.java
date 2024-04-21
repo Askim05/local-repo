@@ -7,9 +7,7 @@ class pullReq{
     }
 
     public static void main(String args[]){
-
-        Merging(3);
-        System.out.println("Hi..!!!");
+        System.out.println("Conflict");
     }
 
 
